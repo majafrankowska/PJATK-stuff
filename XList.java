@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.function.BiConsumer;
 import java.util.function.Function;
 
-public class XList <T> extends ArrayList<T> {
+public class XList <T> extends ArrayList<T> { 
 
     public XList(T... t) {
 
